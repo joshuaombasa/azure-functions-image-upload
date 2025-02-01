@@ -1,0 +1,12 @@
+# .NET
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Local settings (do not commit local settings or secrets)
+local.settings.json
+
+# Azure Function
+host.json
